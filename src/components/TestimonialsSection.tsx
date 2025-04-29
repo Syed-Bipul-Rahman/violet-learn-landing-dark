@@ -6,21 +6,21 @@ import { Button } from "@/components/ui/button";
 const testimonials = [
   {
     id: 1,
-    content: "LearnHub completely changed my career path. I went from knowing nothing about web development to landing my first job as a frontend developer in just 6 months.",
+    content: "SohozLearning completely changed my career path. I went from knowing nothing about web development to landing my first job as a frontend developer in just 6 months.",
     author: "Alex Johnson",
     role: "Frontend Developer",
     avatar: "AJ"
   },
   {
     id: 2,
-    content: "The quality of the courses is outstanding. I've paid for other platforms before, but LearnHub's free content is just as good, if not better!",
+    content: "The quality of the courses is outstanding. I've paid for other platforms before, but SohozLearning's free content is just as good, if not better!",
     author: "Maria Garcia",
     role: "UX Designer",
     avatar: "MG"
   },
   {
     id: 3,
-    content: "As someone with a busy schedule, the flexibility to learn at my own pace has been invaluable. LearnHub made it possible for me to upskill while working full-time.",
+    content: "As someone with a busy schedule, the flexibility to learn at my own pace has been invaluable. SohozLearning made it possible for me to upskill while working full-time.",
     author: "David Kim",
     role: "Product Manager",
     avatar: "DK"
@@ -34,7 +34,7 @@ const TestimonialsSection = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold font-poppins text-white mb-4">What Our <span className="text-violet-400">Students</span> Say</h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
-            Discover how LearnHub has helped thousands of students achieve their learning goals
+            Discover how SohozLearning has helped thousands of students achieve their learning goals
           </p>
         </div>
 

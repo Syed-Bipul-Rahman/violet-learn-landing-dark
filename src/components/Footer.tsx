@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="section-container py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <div className="font-poppins font-bold text-2xl text-white">Learn<span className="text-violet-400">Hub</span></div>
+            <div className="font-poppins font-bold text-2xl text-white">Sohoz<span className="text-violet-400">Learning</span></div>
             <p className="mt-4 text-gray-400 max-w-xs">
               Free educational platform designed to make learning accessible to everyone, everywhere.
             </p>
@@ -96,7 +96,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2025 LearnHub. All rights reserved.
+            © 2025 SohozLearning. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <a href="#" className="text-gray-400 hover:text-violet-400 text-sm">

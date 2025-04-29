@@ -28,7 +28,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <span className="flex items-center">
-              <span className="font-poppins font-bold text-2xl text-white">Learn<span className="text-violet-400">Hub</span></span>
+              <span className="font-poppins font-bold text-2xl text-white">Sohoz<span className="text-violet-400">Learning</span></span>
             </span>
           </div>
           <div className="hidden md:block">

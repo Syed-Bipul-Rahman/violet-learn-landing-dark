@@ -29,7 +29,7 @@ const FeaturesSection = () => {
     <section id="features" className="bg-dark-lighter py-24">
       <div className="section-container">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold font-poppins text-white mb-4">Why Choose <span className="text-violet-400">LearnHub</span>?</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold font-poppins text-white mb-4">Why Choose <span className="text-violet-400">SohozLearning</span>?</h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
             Our platform is designed to give you the best learning experience without any cost
           </p>
